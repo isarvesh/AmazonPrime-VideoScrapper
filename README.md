@@ -1,4 +1,4 @@
-# Build a Amazon Prime Video Scraper with Selenium
+# A Amazon Prime Video Scraper with Selenium
 
 *A Selenium and BeautifulSoup Web Scraper that parses and generates a database of movie titles, ratings and synopses from the Amazon Prime Video homepage.*
 
